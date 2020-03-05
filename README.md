@@ -4,4 +4,4 @@
 #### Sciences
 ##### (Autonomous)
 
-* AITS * is located in Four places Tirupathi, Rajampet, Kadapa and Hyderabad
+*AITS* is located in Four places Tirupathi, Rajampet, Kadapa and Hyderabad
