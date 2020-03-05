@@ -1,0 +1,27 @@
+How to Initialize a repository (On the Local System):
+	- git init 
+		This command will create a repository in the local system
+		If you run this command on an existing repository (Which usually is not needed), the command reinitializes the existing repository.
+
+How To make a commit (Save points / Snapshots)
+	1. Take the files to Staging Area
+		- git add <filename.extension> <filename2.extension>
+		- git add . 
+	2. Add the staging area files to repository
+		- git commit -m "<Your own message to let others know why you have made a particular commit>"
+
+- git status
+	Will tell us the status of the files/folders in the working directory
+- git log
+	It will show all the commits that are made in the repository in chronological order (most recent first). It will also list out the Author name and Date of the commit along with the commit message and 40 characters length SHA(Secure Hash Algorithm).
+- git log --oneline
+	It will show all the commits that are made in the repository in chronological order (most recent first).unlike the git log command this command will only show 7 char length SHA key and the commit message only in one line.
+
+The following commands will tell every commit that you are making "who you are " and " What is your email id? "
+- git config --global user.name 
+	This command helps us to set the user name
+- git config --global user.email
+	this command helps us to set the user email 
+
+Add a remote
+
