@@ -32,4 +32,4 @@
 ##### 2007
 ---
 # Images
-![Tajmahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg =300x200)
+![Tajmahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
