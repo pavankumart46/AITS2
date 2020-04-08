@@ -11,12 +11,12 @@
 ### Computer Science and Engineering (B.Tech)
 #### Aditya Engineering College, Surampalem
 ##### 2009-2013
-
+***
 ### Intermediate - Maths, Physics & Chemistry 
 #### Sri Chaitanya Junior College, Visakhapatnam
 ##### 2007-2009
-
+***
 ### SSC 
 #### GBR EM High School, Anaparthi
 ##### 2007
-
+---
